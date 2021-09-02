@@ -1,2 +1,2 @@
 # A1ITOIT-
-Personal Profile and Project Idea for RMIT Intro to Information and Technology Assessment 1
+Respository Hosting my RMIT Assessment 1 Website
