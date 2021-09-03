@@ -9,15 +9,14 @@ permalink: /about/
 Im an aspiring young individual setting my roots inside the `IT industry`.  
 This page you have visited is my first venture into IT Projects using `GitHub`.
 
-So far, I learned to set up this website using jekyll and host it through github,  
-  
+If want to Learn a bit more about the way I work and what makes me tick check out my [Personal Profile][pp].  
 
 
-
-Check out some of my Familys work:  
+ <br> 
+**Check out some of my Familys work:**  
 
 - Fathers Bussiness: [Cannonball Productions][1]  
-- My Grandfathers Most Influencial work:[Kinetic Suspension][2] (Sold to Teneco).
+- My Grandfathers Most Influencial work: [Kinetic Suspension][2] (Sold to Teneco).
 - Origionally founded by my grandfather:
 	- [No-Rock][3] Cafe Tables (currently owned by my Uncle).
 	- [Nauti-Craft][4] Marine Suspension Technology.
@@ -28,3 +27,7 @@ Check out some of my Familys work:
 [2]: https://en.wikipedia.org/wiki/Kinetic_Dynamic_Suspension_System
 [3]: https://no-rock.com/
 [4]: https://www.nauti-craft.com/
+[pp]: http://localhost:4000/projects/2021/09/03/a-bit-about-me.html  
+
+<br>
+**email:** *louisallerton@gmail.com*

@@ -15,27 +15,24 @@ permalink: "/"
 My name is Louis Allerton.
   
   
-This is a space for me to express my interest in IT and begin to build a 'Personal Profile'.  
-In the near future I can look back on this content and what I learned in order  
-to help make some 'career decisions'.
+This is a space for me to express my interest in IT and begin to build a 'Personal Profile'.   
+I can reflect on this content and what I learned to help make future career choices.  
+
+
+With that in mind, I'm here for a good time and will participate in any exciting project with deligence.  
+Not the kind to rest at the peak, Im gonna make a mark.
 
 ### What You'll Find Here:
 
-- A 'bit about myself', and some of the things that make me tick.
+- A bit [about myself][about] some of the things that make me tick.
 - A project idea of mine.
 - My ideal job in the IT industry.
-- This Image:
 
-	![Image I made, Hehehe](/media/fclslinux.png)
+<br>
+<br>
+***wish me luck***  
 
-
-
-> ""
-
-
-***goodluck***  
-
-
+[about]: /about/
 
 
 
