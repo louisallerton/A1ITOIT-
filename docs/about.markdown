@@ -3,16 +3,28 @@ layout: page
 title: About
 permalink: /about/
 ---
+##Gday,  
+###My names Louis.  
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Im an aspiring young individual setting my roots inside the `IT industry`.  
+This page you have visited is my first venture into IT Projects using `GitHub`.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+So far, I learned to set up this website using jekyll and host it through github,  
+  
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+Check out some of my Familys work:  
+
+- Fathers Bussiness: [Cannonball Productions][1]  
+- My Grandfathers Most Influencial work:[Kinetic Suspension][2] (Sold to Teneco).
+- Origionally founded by my grandfather:
+	- [No-Rock][3] Cafe Tables (currently owned by my Uncle).
+	- [Nauti-Craft][4] Marine Suspension Technology.
+	
+
+
+[1]: http://www.cannonball.com.au/
+[2]: https://en.wikipedia.org/wiki/Kinetic_Dynamic_Suspension_System
+[3]: https://no-rock.com/
+[4]: https://www.nauti-craft.com/
