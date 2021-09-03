@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 ## Gday, 
- 
 ### My names Louis.  
 
 Im an aspiring young individual setting my roots inside the `IT industry`.  
