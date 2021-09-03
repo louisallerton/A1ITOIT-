@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-##Gday,  
-###My names Louis.  
+## Gday, 
+ 
+### My names Louis.  
 
 Im an aspiring young individual setting my roots inside the `IT industry`.  
 This page you have visited is my first venture into IT Projects using `GitHub`.
