@@ -7,4 +7,4 @@ categories: projects
 ## Who the heck are you?
 My name's Louis
 
-![16Personalities Test](/docs/media/personalitytest16.png)
+![16Personalities Test](/media/personalitytest16.png)
