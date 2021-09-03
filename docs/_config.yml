@@ -28,7 +28,7 @@ twitter_username: na
 github_username:  louisallerton
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
