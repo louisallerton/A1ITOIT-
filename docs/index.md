@@ -32,7 +32,7 @@ Not the kind to rest at the peak, Im gonna make a mark.
 <br>
 ***wish me luck***  
 
-[about]: https://louisallerton.github.io/rmita1/about/
+[about]: /about/
 
 
 
